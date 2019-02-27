@@ -8,7 +8,7 @@
     margin-left: 100px;
     position: relative;
     left: 175px;
-    top: 25px;
+    top: 22px;
 }
 
 header {
@@ -77,6 +77,8 @@ p {
 section {
     background-color: #82e4df;
     height: 515px;
+    border-top: 1px solid black;
+    clear: both;
 }
 
 footer {
